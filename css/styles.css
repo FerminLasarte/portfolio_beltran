@@ -96,9 +96,9 @@ body {
 .hero-bg {
   background-image:
     linear-gradient(to bottom,
-      rgba(4,9,20,0.60) 0%,
-      rgba(4,9,20,0.78) 55%,
-      rgba(4,9,20,0.97) 100%),
+      rgba(4,9,20,0.42) 0%,
+      rgba(4,9,20,0.62) 55%,
+      rgba(4,9,20,0.88) 100%),
     url('../assets/fondo-palermo.jpg');
   background-size: cover;
   background-position: center 30%;
