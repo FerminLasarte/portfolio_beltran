@@ -3,7 +3,7 @@
  * Vanilla JS · Gemini AI via FastAPI
  */
 
-const CHAT_API_URL = 'https://portfolio-beltran.onrender.com';
+const CHAT_API_URL = 'https://portfolio-beltran.onrender.com/api/chat';
 
 // Conversation history kept on the client; sent with each request so the
 // model has context. Capped at 20 messages (10 exchanges) to control tokens.
